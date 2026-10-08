@@ -1,0 +1,16 @@
+{
+  "description": "Refuse COMPLETED without a receipt. Add to your Claude Code settings hooks or load via the plugin.",
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash -c 'if grep -qiE \"status[\\\" :=]+(COMPLETED|DONE|COMPLETE)\\b\" <<< \"$CLAUDE_TOOL_INPUT\" && ! grep -qiE \"receipt\" <<< \"$CLAUDE_TOOL_INPUT\"; then echo \"receipted-operator: refusing COMPLETED without a receipt field\" >&2; exit 2; fi'"
+          }
+        ]
+      }
+    ]
+  }
+}

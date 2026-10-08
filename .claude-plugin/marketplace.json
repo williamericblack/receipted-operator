@@ -1,0 +1,7 @@
+{
+  "name": "datumline",
+  "owner": {"name": "Datumline LLC", "url": "https://datumline.dev"},
+  "plugins": [
+    {"name": "receipted-operator", "source": "./", "description": "Doctrine, truthful statuses, receipt ledger, independent verifier (FALSE_DONE)."}
+  ]
+}
