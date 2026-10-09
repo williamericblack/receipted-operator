@@ -1,7 +1,18 @@
 {
   "name": "datumline",
-  "owner": {"name": "Datumline LLC", "url": "https://datumline.dev"},
+  "owner": {
+    "name": "Datumline LLC",
+    "url": "https://datumline.dev"
+  },
   "plugins": [
-    {"name": "receipted-operator", "source": "./", "description": "Doctrine, truthful statuses, receipt ledger, independent verifier (FALSE_DONE)."}
-  ]
+    {
+      "name": "receipted-operator",
+      "source": "./",
+      "description": "Doctrine, truthful statuses, receipt ledger, independent verifier (FALSE_DONE)."
+    }
+  ],
+  "metadata": {
+    "description": "Datumline plugins: receipts, truthful statuses and an independent verifier that catches false completion claims in AI agent work."
+  },
+  "description": "Datumline plugins: receipts, truthful statuses and an independent verifier that catches false completion claims in AI agent work."
 }
