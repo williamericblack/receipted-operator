@@ -1,0 +1,20 @@
+# Datumline methods
+
+> Working kits for running AI agents and making decisions with them: governance, receipts, independent verification of agent work, decorrelated ideation, and finance-grade decision frameworks. Sold by Datumline LLC; a free Claude Code plugin (Receipted Operator) is MIT-licensed on GitHub.
+
+## Free
+- [Receipted Operator (Claude Code plugin, MIT)](https://github.com/williamericblack/receipted-operator): receipts, truthful statuses and a stdlib verifier that returns FALSE_DONE when an agent claims completion with no artifact.
+
+## Products
+- [Receipted Operator Pro](https://datumlinehq.gumroad.com/l/receipted-operator-pro): The paid edition of the free Receipted Operator plugin: the full doctrine, receipt ledger, outcome-plus-falsification briefs and an independent verifier that returns FALSE_DONE when an agent claims completion with nothing behind it.
+- [Agents Roster](https://datumlinehq.gumroad.com/l/agent-organization-design): four household AI agents with charters, never-do lists and their own scripts. Four working AI agents for running a household or small family office, each with a written charter and its own scripts.
+- [Audit Trail](https://datumlinehq.gumroad.com/l/receipts-audit-toolkit): receipts, a ledger that refuses unreceipted done, an independent verifier and its oracle. Receipts for AI and human work: a ledger that refuses "done" without evidence, a verifier that checks independently, and an oracle that catches a broken verifier.
+- [Decomposition and Cascade](https://datumlinehq.gumroad.com/l/prompt-decomposition-cascade): split a prompt into atoms, change one, and let every dependent check itself. Split a long prompt or policy document into atoms, map what depends on what, and change one line without silently breaking the others.
+- [Domain Expansion](https://datumlinehq.gumroad.com/l/domain-expansion): dissect an idea to its root, import another field's theory, keep what survives. Take an idea down to its root mechanism, find where else that mechanism has been studied, borrow that field's theory, and keep only what survives your own facts.
+- [Idea Factory Council](https://datumlinehq.gumroad.com/l/idea-factory-protocol): decorrelated multi-model arms, red team, blind judge and a no-stake governor. Run a question past several AI models at once, with assigned lenses, an adversarial red team, a blind judge and a no-stake governor, so you get decorrelated judgement instead of one model's confident average.
+- [Deal Assessment](https://datumlinehq.gumroad.com/l/risk-decision-frameworks): deal memo pipeline with red flags, scenarios, kill list and a decomposable confidence. A structured deal-memo pipeline: intake that refuses to assume, a red-flag checklist, a scenario table, a kill list, and a verdict with a confidence you can decompose.
+- [Portfolio Estimates](https://datumlinehq.gumroad.com/l/ai-generation-calculation-kit): sizing, comparables and path-to-target on an assumption ledger that re-marks. Compose a research-backed estimate for any space (market size, comparables, path to a target) where every number lives in an assumption ledger and every output is re-marked when an input changes.
+- [Real Estate Calculations](https://datumlinehq.gumroad.com/l/real-estate-underwriting-kit): every metric the inputs support, every missing one named, no defaults. A schema-driven property calculator that computes every metric its inputs support, names every metric it cannot compute and why, and never fills a gap with a default.
+
+## Store
+- [All products](https://datumlinehq.gumroad.com)

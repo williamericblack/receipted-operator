@@ -1,6 +1,8 @@
 # Receipted Operator
 
-Governance for anyone running AI agents who has been burned by green checkmarks that checked nothing.
+A free Claude Code plugin that verifies AI agent work: receipts, a truthful status set, and an independent verifier that returns **FALSE_DONE** when an agent claims a task is complete and the artifact isn't there.
+
+For anyone running AI agents who has been burned by green checkmarks that checked nothing.
 
 **What it gives you**
 - A decision doctrine: default-go rules, hard gates, and two permanent lines (email and money never automate).
@@ -26,5 +28,11 @@ Governance for anyone running AI agents who has been burned by green checkmarks 
 **Proof it works (do this once):** mark any job COMPLETED with no artifact, run `/verify`. You should see `FALSE_DONE`. If you see green, the plugin is broken and you should not trust it.
 
 Not a security audit. Not a compliance certification. A tool you run on your own work. Composes with cryptographic tool-call receipts (e.g. protect-mcp) which sign *that a call happened*; this verifies *that the job produced its artifact*.
+
+## Going further
+
+- **[Receipted Operator Pro](https://datumlinehq.gumroad.com/l/receipted-operator-pro)**: the full paid edition of this plugin.
+- **[Datumline methods](https://williamericblack.github.io/receipted-operator/)**: working kits for agent governance, audit trails, decomposition, decorrelated ideation, deal assessment, portfolio estimates and real-estate calculations. Every kit ships scripts whose tests fail when the method is broken.
+- **[Store](https://datumlinehq.gumroad.com)**
 
 Datumline LLC · MIT license · v0.1.0
