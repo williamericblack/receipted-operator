@@ -7,7 +7,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "bash -c 'if grep -qiE \"status[\\\" :=]+(COMPLETED|DONE|COMPLETE)\\b\" <<< \"$CLAUDE_TOOL_INPUT\" && ! grep -qiE \"receipt\" <<< \"$CLAUDE_TOOL_INPUT\"; then echo \"receipted-operator: refusing COMPLETED without a receipt field\" >&2; exit 2; fi'"
+            "command": "python3 \"${CLAUDE_PLUGIN_ROOT}/hooks/refuse_unreceipted.py\""
           }
         ]
       }

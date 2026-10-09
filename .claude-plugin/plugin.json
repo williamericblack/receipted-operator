@@ -1,8 +1,17 @@
 {
   "name": "receipted-operator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Governance for AI agent work: doctrine, truthful statuses, a receipt ledger, and an independent verifier that returns FALSE_DONE when a claimed completion has no artifact.",
-  "author": {"name": "Datumline LLC", "url": "https://datumline.dev"},
+  "author": {
+    "name": "Datumline LLC",
+    "url": "https://datumline.dev"
+  },
   "license": "MIT",
-  "keywords": ["governance", "receipts", "verification", "audit", "agents"]
+  "keywords": [
+    "governance",
+    "receipts",
+    "verification",
+    "audit",
+    "agents"
+  ]
 }

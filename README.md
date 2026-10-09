@@ -35,4 +35,4 @@ Not a security audit. Not a compliance certification. A tool you run on your own
 - **[Datumline methods](https://williamericblack.github.io/receipted-operator/)**: working kits for agent governance, audit trails, decomposition, decorrelated ideation, deal assessment, portfolio estimates and real-estate calculations. Every kit ships scripts whose tests fail when the method is broken.
 - **[Store](https://datumlinehq.gumroad.com)**
 
-Datumline LLC · MIT license · v0.1.0
+Datumline LLC · MIT license · v0.1.1
