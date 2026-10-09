@@ -31,7 +31,7 @@ Not a security audit. Not a compliance certification. A tool you run on your own
 
 ## Going further
 
-- **[Receipted Operator Pro](https://datumlinehq.gumroad.com/l/receipted-operator-pro)**: the paid way to get this plugin, with a guided setup and proof-it-works page and email support. Same open-source code as this repository.
+- **[Receipted Operator Pro](https://datumlinehq.gumroad.com/l/receipted-operator-pro)**: this plugin plus Audit Trail and the Governance Gate Kit, which are not in this repository.
 - **[Datumline methods](https://williamericblack.github.io/receipted-operator/)**: working kits for agent governance, audit trails, decomposition, decorrelated ideation, deal assessment, portfolio estimates and real-estate calculations. Every kit ships scripts whose tests fail when the method is broken.
 - **[Store](https://datumlinehq.gumroad.com)**
 
